@@ -6,8 +6,7 @@ Welcome to the ChatBot Project repository. This project contains a simple web-ba
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
